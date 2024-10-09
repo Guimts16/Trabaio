@@ -5,6 +5,7 @@
     background-image: url("../img/Menu.svg");
     background-repeat: no-repeat;
     background-position: center;
+
 }
 
 .cabeçalho {
@@ -13,6 +14,9 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
+    :hover {
+        cursor: pointer;
+    }
 }
 
 .container {
