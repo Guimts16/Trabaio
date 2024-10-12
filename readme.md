@@ -1,11 +1,11 @@
 # Página web: utilizando a responsividade em aplicações com HTML e CSS - Parte 1
 
 # 💥 Conceito
-Projeto elabora através dos ensinamentos da Alura, fornecidos pela instituição escolar Antônio Berreta.
-Pedido um site utilizando HTML e CSS para pesquisa de sites.
+Projeto elaborado através dos ensinamentos da Alura, fornecidos pela instituição escolar Antônio Berreta.
+Foi pedido um site utilizando HTML e CSS para pesquisa de livros relacionados a programação.
 
 **Criatividade aplicada:**
-- Livros com opção de compra (Clique-os e abrirá a interface de compra)
+- Livros com opção de compra (Clique-os e abrirá a interface de compra).
 
 # 🛠 Linguagens:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
